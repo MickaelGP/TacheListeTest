@@ -13,8 +13,8 @@ Suivez les étapes ci-dessous pour installer et exécuter l’application locale
 
 1.  Cloner le dépôt :
 ```bash
-git clone https://github.com/MickaelGP/TacheListe
-cd TacheListe
+git clone https://github.com/MickaelGP/TacheListeTest
+cd TacheListeTest
 ```
 2. Ajout de la référence au projet principal.
 ```bash
